@@ -18,9 +18,13 @@ _Is your package missing? Send a PR!_
 
 # List of external resources
  [ISO20022 website](https://www.iso20022.org/)
+
  [ISO20022.org's current catalogue](https://www.iso20022.org/full_catalogue.page)
+ 
  [ISO20022.org's archive](https://www.iso20022.org/message_archive.page)
+ 
  [XMLdation Wiki](https://wiki.xmldation.com/General_Information/ISO_20022)
+ 
  [EPC SEPA notes](http://www.europeanpaymentscouncil.eu/index.cfm/sepa-credit-transfer/iso-20022-message-standards/)
 
 _You happen to have another resource? Send a PR!_
