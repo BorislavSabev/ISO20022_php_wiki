@@ -7,7 +7,7 @@ An open source wiki for the ISO20022 standard and how to use it (mainly) with PH
 - an open source resource pool of information about ISO20022
 - a list of PHP libraries that support it and information of their status
 - a list of external resources on the topic
-- host the source to the docs and generate a GitPages website from it
+- host the source to the docs and generate a website from it
 
   **This is currently a work in progress so bare with me. Also please submit any missing information as PRs if you have it.**
 
