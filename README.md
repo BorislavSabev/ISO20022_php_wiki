@@ -8,10 +8,11 @@ Development phases
 
 ## Goal and purpose
   The purpose of this wiki is to provide information about the ISO20022 financial messaging standard, the Universal financial industry message scheme (UNIFI) and its use (mainly) with PHP. 
-  The goal of this repository is to provide:
-- an open source resource pool of information about ISO20022
-- a list of PHP libraries that support it and information of their status
-- a list of external resources on the topic
+  The goal of this repository is to:
+- provide an open source resource pool of information about ISO20022
+- encourage ????
+- provide a list of PHP libraries that support it and information of their status
+- provide a list of external resources on the topic
 - host the source to the docs and generate a website from it
 
 
