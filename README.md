@@ -35,6 +35,8 @@ _Is your package missing? Send a PR!_
  
  [EPC SEPA notes](http://www.europeanpaymentscouncil.eu/index.cfm/sepa-credit-transfer/iso-20022-message-standards/)
 
+ [SEPA CORE DIRECT DEBIT SCHEME CUSTOMER-TO-BANK IMPLEMENTATION GUIDELINES](http://www.europeanpaymentscouncil.eu/index.cfm/knowledge-bank/epc-documents/sepa-direct-debit-core-scheme-customer-to-bank-implementation-guidelines-version-90/epc130-08-sdd-core-c2b-ig-v90-approvedpdf/)
+
  [InstdAmt vs. EqvtAmt](https://wiki.xmldation.com/General_Information/ISO_20022/Difference_between_InstdAmt_and_EqvtAmt)
  
  [CreditorIdentifier explanation](http://www.sepaforcorporates.com/sepa-direct-debits/sepa-creditor-identifier/)
