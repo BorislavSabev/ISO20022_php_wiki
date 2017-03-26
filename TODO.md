@@ -1,0 +1,2 @@
+- Add guides to the MDR schema documents and how to use them for reference
+- Add a short guide to the iso20022.org website
