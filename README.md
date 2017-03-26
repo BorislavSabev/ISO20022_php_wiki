@@ -3,7 +3,9 @@ An open source wiki for the ISO20022 standard and how to use it from a programme
 
 Development phases 
 1. Gather information [CURRENT]
+  Durign this phase information will just be gathered in a somewhat not organized matter. We hope it will still be very helpful.
 2. Organise, Format & publish to git-pages [FUTURE]
+  
 
 
 ## Goal and purpose
