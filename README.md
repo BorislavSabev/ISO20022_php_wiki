@@ -14,7 +14,7 @@ An open source wiki for the ISO20022 standard and how to use it (mainly) with PH
 
 # List of PHP libraries
 - https://github.com/php-sepa-xml/php-sepa-xml (active)
-- https://github.com/digitick/php-sepa-xml (defunct)
+- https://github.com/digitick/php-sepa-xml (defunct and points to the above one)
 
 _Is your package missing? Send a PR!_
 
